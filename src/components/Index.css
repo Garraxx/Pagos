@@ -1,0 +1,42 @@
+body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+  
+  .form-container {
+    background-color: #3e3e3e;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .card-container {
+    margin-left: 20px;
+  }
+  
+  .card {
+    background-color: #4b4b4b;
+    color: #e0e0e0;
+  }
+  
+  .btn-primary {
+    background-color: #800080;
+    border: none;
+  }
+  
+  .btn-secondary {
+    background-color: #505050;
+    border: none;
+  }
+  
+  .btn-primary:hover, .btn-secondary:hover {
+    opacity: 0.8;
+  }
+  
+  h2 {
+    color: #cc33cc;
+  }
+  
+  .form-label {
+    color: #cc33cc;
+  }
+  
